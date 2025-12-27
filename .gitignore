@@ -1,0 +1,10 @@
+Obsidian-Vaults/
+
+# Obsidian: evita conflictos
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Sistema
+.DS_Store
+Thumbs.db

@@ -1,0 +1,60 @@
+# Diario — <% tp.date.now("dddd, DD MMM YYYY") %>  
+  
+[[<% tp.date.now("YYYY-MM-DD",-1) %>|← Ayer]] • [[<% tp.date.now("YYYY-MM-DD",1) %>|Mañana →]]  
+  
+<div style="padding:14px 16px;border-radius:12px;background:linear-gradient(135deg,#6C63FF,#00C9A7);color:#fff;font-weight:600;box-shadow:0 6px 18px rgba(0,0,0,.12);">  
+  ![🌟](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f31f/72.png) <span id="motivador">Mensaje del día:</span>  
+  <div style="margin-top:6px;font-weight:500;">  
+    <%*  
+      const quotes = [  
+        "Pequeños pasos, grandes destinos.",  
+        "La constancia vence al talento distraído.",  
+        "Hecho > Perfecto.",  
+        "Si no es ahora, ¿cuándo?",  
+        "Enfócate en lo que controlas hoy."  
+      ];  
+      tR += quotes[Math.floor(Math.random()*quotes.length)];  
+    %>  
+  </div>  
+</div>  
+  
+---  
+  
+![🎯](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f3af/72.png) Top 3 Prioridades de la Semana:  
+- [ ] 1)  
+- [ ] 2)  
+- [ ] 3)  
+  
+> [!tip] Regla 1–3: si aparece una cuarta, reevalúa y mueve algo a mañana.  
+  
+![✅](https://fonts.gstatic.com/s/e/notoemoji/16.0/2705/72.png) Tareas de hoy  
+  
+> [!danger] ![🔥](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f525/72.png) **Urgentes**  
+> - [ ]  
+> - [ ]  
+> - [ ]  
+  
+> [!tip] ![🧩](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f9e9/72.png) **Medias**  
+> - [ ]  
+> - [ ]  
+> - [ ]  
+  
+> [!info] ![⚡](https://fonts.gstatic.com/s/e/notoemoji/16.0/26a1/72.png) **Fáciles**  
+> - [ ]  
+> - [ ]  
+> - [ ]  
+  
+---  
+  
+![🗓️](https://fonts.gstatic.com/s/e/notoemoji/16.0/1f5d3_fe0f/72.png) Notas para mañana  
+  
+> [!note] ![✍️](https://fonts.gstatic.com/s/e/notoemoji/16.0/270d_fe0f/72.png) **Notas**  
+> - [ ]    
+> - [ ]    
+> - [ ]    
+>  
+> **Tareas programadas para mañana**  
+>  
+> - [ ]    
+> - [ ]    
+> - [ ]
