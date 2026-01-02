@@ -1,0 +1,4 @@
+- Tengo que corregir la inteligencia del plan inteligente (ajustar macros, tema de alergias y alimentos no deseados)
+- Tengo que corregir ciertas imagenes en los ingredientes (recuerda quitar el boton de eliminar imagen)
+- Estoy haciendo el panel de admin para poder revisar las recetas (hay ingredientes metidos con unit que no corresponde)
+- Generar más recetas y comprobar etiquetado.
